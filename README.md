@@ -1,2 +1,8 @@
 # fcc-project-1
-FreeCodeCamp - Responsive Web Design / Project #1: Build a Tribute Page
+# Proyecto #1 - Responsive Web Design: Construye una página tributo.
+
+FreeCodeCamp - Responsive Web Design / Project #1: Build a Tribute Page.
+
+
+
+CodePen link: https://codepen.io/tobiasfacello/pen/dypVqdj
