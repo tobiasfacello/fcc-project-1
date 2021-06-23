@@ -5,4 +5,4 @@ FreeCodeCamp - Responsive Web Design / Project #1: Build a Tribute Page:
 
 https://tobiasfacello-fcc-project-1.netlify.app/
 
-CodePen link: https://codepen.io/tobiasfacello/pen/dypVqdj
+CodePen (Solution link): https://codepen.io/tobiasfacello/pen/dypVqdj
